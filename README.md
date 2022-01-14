@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diogosupermufasa
+- 👋 Hi, I’m Diogo
 - 👀 I’m interested in learning how to program  
 - 🌱 I’m currently studying in Portugal   
 - 📫 How to reach me diogosuper4747@gmail.com
