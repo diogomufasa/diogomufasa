@@ -1,3 +1,9 @@
+<head>
+		<meta charset="utf-8">
+		<title>My first page</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+</head>
 - 👋 Hi, I’m Diogo
 - 👀 I’m interested in learning how to program  
 - 🌱 I’m currently studying in Portugal   
