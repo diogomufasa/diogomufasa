@@ -1,15 +1,11 @@
-<head>
-		<meta charset="utf-8">
-		<title>My first page</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-</head>
-- 👋 Hi, I’m Diogo
-- 👀 I’m interested in learning how to program  
-- 🌱 I’m currently studying in Portugal   
-- 📫 How to reach me diogosuper4747@gmail.com
+<!-- my README file -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-<!---
-diogosupermufasa/diogosupermufasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2> 👋 Hi, I’m Diogo </h2>
+<ul>
+	<li>👀 <strong>I’m into programming!</strong></li>
+	<li>🌱 I’m currently learning JS</li>
+	<li>📫 How to reach me <a href = "mailto: diogosuper4747@gmail.com">diogosuper4747@gmail.com</a></li>
+</ul>
