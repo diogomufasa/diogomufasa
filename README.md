@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-<h2> 👋 Hi, I’m Diogo </h2>
+<h1 align="center"> 👋 Hi, I’m Diogo </h1>
 <ul>
 	<li>👀 <strong>I’m into programming!</strong></li>
 	<li>🌱 I’m currently learning JS</li>
