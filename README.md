@@ -12,4 +12,14 @@
 	<li>📫 How to reach me <a href = "mailto: diogosuper4747@gmail.com">diogosuper4747@gmail.com</a></li>
 </ul>
 <br>
-<h3> Known Programming Languages: Javascript; Web Fundamentals(css, html). </h3>
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diogomufasa&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diogomufasa&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diogomufasa&theme=github" />
+  </a>
+</div>
