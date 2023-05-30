@@ -14,12 +14,12 @@
 <br>
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diogomufasa&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diogomufasa&theme=dark" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diogomufasa&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diogomufasa&theme=dark" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diogomufasa&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diogomufasa&theme=dark" />
   </a>
 </div>
