@@ -4,7 +4,7 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
 
-<br><h1 align="center"> 👋 Hi, I’m Diogo <br><br></h1>
+<br><h1 align="center"> 👋 Hey, I’m Diogo <br><br></h1>
 <br>
 <ul>
 	<li>👀 <strong>I’m into programming!</strong></li>
