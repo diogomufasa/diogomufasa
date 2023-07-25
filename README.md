@@ -8,7 +8,7 @@
 <br>
 <ul>
 	<li>👀 <strong>I’m into programming!</strong></li>
-	<li>🌱 I’m currently learning Pyhton</li>
+	<li>🌱 I am keen to do any sort of volunteer/intern work to excel my skills and gain experience </li>
 	<li>📫 How to reach me <a href = "mailto: diogosuper4747@gmail.com">diogosuper4747@gmail.com</a></li>
 </ul>
 <br>
