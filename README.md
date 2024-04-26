@@ -32,6 +32,8 @@
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diogomufasa&theme=github_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diogomufasa&theme=github_dark)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diogomufasa&theme=github_dark)
+<br>
+![Codewars](https://www.codewars.com/users/diogosupermufasa/badges/small)
 
 > "To be human is not merely to stand erect and manifest intelligence or knowledge. To be human in the full sense of the word is to lead a creative life"
 
