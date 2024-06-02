@@ -6,7 +6,7 @@
 
 - 👀 **Tech enthusiast and endless explorer**
 - 🌱 I am keen to do any sort of volunteer/intern work to excel my skills and gain experience
-- 📫 How to reach me: [diogosuper4747@gmail.com](mailto:diogosuper4747@gmail.com)
+- 📫 How to reach me: [info@diogomoreira.tech](mailto:info@diogomoreira.tech)
 
 <div align="center">
 
