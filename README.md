@@ -5,7 +5,7 @@
 </div>
 
 - 👀 **Tech enthusiast and endless explorer**
-- 🌱 I am keen to do any sort of volunteer/intern work to excel my skills and gain experience
+- 🌱 I am keen to do any sort of intern work to excel my skills and gain experience
 - 📫 How to reach me: [info@diogomoreira.tech](mailto:info@diogomoreira.tech)
 
 <div align="center">
